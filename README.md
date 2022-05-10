@@ -13,9 +13,9 @@ I mainly work with React/Nextjs, ExpressJS/NestJS, Python (Django), Typescript ,
 * 🤝  I'm open to collaborating on any project that can be benefitial to the tech community at large
 
 <a href="https://www.twitter.com/papz_dev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/papz_dev?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
+src="https://img.shields.io/twitter/follow/papz_dev?logo=twitter&style=for-the-badge&color=a855f7&labelColor=000000"
 /></a><a href="https://www.github.com/manuomulo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/manuomulo?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/manuomulo?logo=github&style=for-the-badge&color=a855f7&labelColor=000000" /></a>
 
 ### Skills
 
@@ -57,6 +57,6 @@ src="https://img.shields.io/github/followers/manuomulo?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/manuomulo"><img src="https://github-readme-stats.vercel.app/api?username=manuomulo&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="manuomulo's GitHub stats" /></a>
+<a href="http://www.github.com/manuomulo"><img src="https://github-readme-stats.vercel.app/api?username=manuomulo&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="manuomulo's GitHub stats" /></a>
 
-<a href="http://www.github.com/manuomulo"><img src="https://activity-graph.herokuapp.com/graph?username=manuomulo&bg_color=1c1917&color=ffffff&line=a855f7&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/manuomulo"><img src="https://activity-graph.herokuapp.com/graph?username=manuomulo&bg_color=000000&color=ffffff&line=a855f7&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
